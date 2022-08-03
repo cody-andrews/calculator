@@ -53,12 +53,12 @@ body    {
     word-break: break-all;
 }
 
-.output .prevOperand    {
+.output .previous-operand    {
     color: rgb(255, 255, 255, .75);
     font-size: 1.5rem;
 }
 
-.output .currOperand    {
+.output .current-operand    {
     color: white;
     font-size: 2.5rem;
 }
